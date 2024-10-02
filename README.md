@@ -4,3 +4,5 @@ This repository contains all source files used in my degree's final project, whi
 
  - [**ebpf-core:**](./ebpf-core) Contains source code of VHDL implementation of the eBPF core, scripts for compilation and other useful files.
  - [**ebpf-assembler:**](./ebpf-assembler) Assembler made for compiling tests. 
+
+This project is read-only. Possible bugs and improvements are being developed in a private repository.
